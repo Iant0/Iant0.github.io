@@ -1,0 +1,5 @@
+https://getwaves.io/
+https://micku7zu.github.io/vanilla-tilt.js/
+https://gsap.com/docs/v3/Installation/?tab=cdn&module=esm&method=private+registry&tier=free&club=false&require=false&trial=true
+https://getbootstrap.com/docs/5.3/components/alerts/
+https://michalsnik.github.io/aos/
